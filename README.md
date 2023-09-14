@@ -1,9 +1,9 @@
 # Terrorism
 
-# The-Spark-Foundation-Task
+# CodersCave
 The tasks I accomplished while serving as an intern for The Sparks Foundation are stored in this repository.
 
-Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( November -2021 ) Internship Type - Work from Home
+Internship Category - Data Science Internship Duration - 1 Month ( September -2023 ) Internship Type - Work from Home
 
 # Task-1 : Exploratory Data Analysis- Terrorism (Level- Intermediate)
 Please click on the images on right side to view my solution.
